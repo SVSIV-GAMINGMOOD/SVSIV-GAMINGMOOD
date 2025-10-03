@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKzv5afFtFYVCZm5/giphy.gif" width="60"/>
+  <img src="https://media.giphy.com/media/qgM1t98x2UIfO/giphy.gif" width="60"/>
   <h1>Hey there! I'm Shreshth Varshney 👋</h1>
 </div>
 
@@ -67,7 +67,7 @@ Here are some of the technologies I'm proficient in or actively working with:
   </a>
   <br/>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=SVSIV-GAMINGMOOD&theme=dark" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.vercel.app/?user=SVSIV-GAMINGMOOD&theme=dark&mode=daily" alt="GitHub Streak" />
   </a>
 </div>
 
