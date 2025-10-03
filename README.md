@@ -1,27 +1,18 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgM1t98x2UIfO/giphy.gif" width="60"/>
+  <div style="width: 200px; height: auto; border-radius: 15px; overflow: hidden; margin: 0 auto;">
+    <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programmer GIF" width="200">
+  </div>
   <h1>Hey there! I'm Shreshth Varshney 👋</h1>
 </div>
-
-<div align="center">
-  <a href="https://hits.seeyou.design/plants.json?url=https%3A%2F%2Fgithub.com%2F[YOUR_GITHUB_USERNAME]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false">
-    <img src="https://hits.seeyou.design/plants.json?url=https%3A%2F%2Fgithub.com%2F[YOUR_GITHUB_USERNAME]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
-  </a>
-</div>
-
----
 
 ### 🚀 About Me
 
 I'm a passionate Open Source Enthusiast and competitive Programmer with a knack for building scalable web applications, solving complex data problems, and creating elegant user interfaces. I thrive on learning new technologies and contributing to impactful projects. My goal is to build innovative software solutions, make technology accessible, and contribute to the open-source community.
 
-**- 🔭 I’m currently working on [Project Name or Area of Focus, e.g., a real-time chat application using WebSockets, optimising machine learning models]**.
 - 🌱 I’m currently learning Rust, Backend, and transformers.
 - 👯 I’m looking to collaborate on open-source projects, challenging full-stack applications, and data visualisation tools.
-- 🤔 I’m looking for help with **[Specific Area you need help with, e.g., optimizing database queries, understanding complex algorithms]**. (Optional)
-- 💬 Ask me about **[Your Expertise/Interests, e.g., React, Python, cloud architecture, game development]**.
+- 💬 Ask me about React, Python, Data Structures and Algorithms, AI & ML, C++ 
 - 📫 How to reach me: shreshthvarshney2017@gmail.com!
-**- ⚡ Fun fact: [A quirky or interesting fact about you, e.g., I can solve a Rubik's Cube in under 2 minutes, I love hiking in the mountains]**.
 
 ---
 
